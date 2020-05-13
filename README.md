@@ -13,6 +13,7 @@
 
 <ul>
   <li>pip install opencv-python </li>
+  <li>pip install dlib</li>
   <li>pip install face_recognition (requires python 3.6 or older)</li>
   <li>Replace the path variable with the directory path containing all the known face images.</li>
   <li>Change Model variable Depending on availability of GPU</li>
